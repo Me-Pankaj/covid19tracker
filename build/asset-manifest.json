@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Me-Pankaj/covid-tracker/static/css/main.1a2ca355.chunk.css",
+    "main.js": "/Me-Pankaj/covid-tracker/static/js/main.9c0f48a5.chunk.js",
+    "main.js.map": "/Me-Pankaj/covid-tracker/static/js/main.9c0f48a5.chunk.js.map",
+    "runtime-main.js": "/Me-Pankaj/covid-tracker/static/js/runtime-main.74f36abe.js",
+    "runtime-main.js.map": "/Me-Pankaj/covid-tracker/static/js/runtime-main.74f36abe.js.map",
+    "static/css/2.9c627786.chunk.css": "/Me-Pankaj/covid-tracker/static/css/2.9c627786.chunk.css",
+    "static/js/2.ce97c6ba.chunk.js": "/Me-Pankaj/covid-tracker/static/js/2.ce97c6ba.chunk.js",
+    "static/js/2.ce97c6ba.chunk.js.map": "/Me-Pankaj/covid-tracker/static/js/2.ce97c6ba.chunk.js.map",
+    "index.html": "/Me-Pankaj/covid-tracker/index.html",
+    "precache-manifest.572835a7b5bf425605ac992f81f1ee77.js": "/Me-Pankaj/covid-tracker/precache-manifest.572835a7b5bf425605ac992f81f1ee77.js",
+    "service-worker.js": "/Me-Pankaj/covid-tracker/service-worker.js",
+    "static/css/2.9c627786.chunk.css.map": "/Me-Pankaj/covid-tracker/static/css/2.9c627786.chunk.css.map",
+    "static/css/main.1a2ca355.chunk.css.map": "/Me-Pankaj/covid-tracker/static/css/main.1a2ca355.chunk.css.map",
+    "static/js/2.ce97c6ba.chunk.js.LICENSE.txt": "/Me-Pankaj/covid-tracker/static/js/2.ce97c6ba.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/Me-Pankaj/covid-tracker/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/Me-Pankaj/covid-tracker/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74f36abe.js",
+    "static/css/2.9c627786.chunk.css",
+    "static/js/2.ce97c6ba.chunk.js",
+    "static/css/main.1a2ca355.chunk.css",
+    "static/js/main.9c0f48a5.chunk.js"
+  ]
+}
