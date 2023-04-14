@@ -121,7 +121,7 @@ function Cards({data}) {
         <MDBFooter className={styles.black1}>
         <div className="footer-copyright text-center py-3">
         <MDBContainer fluid>
-  <a href="https://pranalilahoti.github.io/portfolio/#/" target="_blank">
+  <a href="https://me-pankaj.github.io/its-my-portfolio" target="_blank">
     <button class="left-corner" style={{backgroundColor: '#FFC107', borderRadius: '10px', padding: '10px 20px'}}>
       About Me
     </button>
